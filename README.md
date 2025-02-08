@@ -2,6 +2,8 @@
 
 Welcome to the **Antique Store Website** repository! This project is a fully responsive and visually appealing e-commerce platform designed for selling antique items, offering a seamless shopping experience.
 
+![Antique Store](https://github.com/user-attachments/assets/7c892999-b92b-408d-8cf5-e9cc25e11e7f)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -86,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email:** ydaniyalqureshi164@gmail.com
+- **Email:** daniyalqureshi164@gmail.com
 - **LinkedIn:** [Daniyal Qureshi](https://www.linkedin.com/in/daniyal-qureshi-b81016334)
 - **GitHub:** [Dani-Bytes](https://github.com/Dani-Bytes)
 
